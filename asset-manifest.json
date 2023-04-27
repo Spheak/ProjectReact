@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ProjectReact/static/css/main.feba9749.css",
+    "main.js": "/ProjectReact/static/js/main.e20f225d.js",
+    "static/js/787.142da1d4.chunk.js": "/ProjectReact/static/js/787.142da1d4.chunk.js",
+    "static/media/lisa.jpg": "/ProjectReact/static/media/lisa.3376784f0a20fc8afbf8.jpg",
+    "index.html": "/ProjectReact/index.html",
+    "main.feba9749.css.map": "/ProjectReact/static/css/main.feba9749.css.map",
+    "main.e20f225d.js.map": "/ProjectReact/static/js/main.e20f225d.js.map",
+    "787.142da1d4.chunk.js.map": "/ProjectReact/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feba9749.css",
+    "static/js/main.e20f225d.js"
+  ]
+}
